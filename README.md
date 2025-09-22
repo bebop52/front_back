@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://secario06.github.io/Andrey/)
+- [Публичная страница на GitHub Pages](https://bebop52.github.io/front_back/)
